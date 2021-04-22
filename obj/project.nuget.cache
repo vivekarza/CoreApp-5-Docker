@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mILXKMPhWAznlyXYMCyHCa0QjFhib6WVaKw3ZdpyOzhn+9bK8sApseTUdQEIJKhUvkjkyayAToIVnD6xE/iuYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\varza\\source\\repos\\CoreApp-W-Docker-5\\CoreApp-W-Docker-5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\varza\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
