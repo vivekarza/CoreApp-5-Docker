@@ -1,9 +1,5 @@
-node('docker') {
-
-    stage 'Checkout'
-        checkout scm
-    stage 'Build & UnitTest'
-        sh "docker build -t accountownerapp:B${BUILD_NUMBER} -f Dockerfile ."
-        sh "docker build -t accountownerapp:test-B${BUILD_NUMBER} -f Dockerfile.Integration ."
- 
-}
+dotnet restore
+dotnet publish -c release
+docker build -t dockerhubuser/simplecoreapp:v0.${BUILD_NUMBER} .
+docker login -u dockerhubuser -p dockerhubpassword -e user@domain.com
+docker push dockerhubuser/simplecoreapp:v0.${BUILD_NUMBER}
