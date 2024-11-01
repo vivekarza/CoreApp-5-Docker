@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoreApp-W-Docker-5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6408063fdfea0ae244fa18485250b46db410870")]
 [assembly: System.Reflection.AssemblyProductAttribute("CoreApp-W-Docker-5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoreApp-W-Docker-5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

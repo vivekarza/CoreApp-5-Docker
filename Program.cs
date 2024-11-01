@@ -20,6 +20,7 @@ namespace CoreApp_W_Docker_5
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
+                    //configuration builder
                     webBuilder.UseStartup<Startup>();
                 });
     }
