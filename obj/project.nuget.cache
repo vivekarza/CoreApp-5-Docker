@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "mILXKMPhWAznlyXYMCyHCa0QjFhib6WVaKw3ZdpyOzhn+9bK8sApseTUdQEIJKhUvkjkyayAToIVnD6xE/iuYw==",
+  "dgSpecHash": "26rBcEaZMvODUjyRn0Tn6O13HOHpAkF1NhwhQSfjMv/RpPyKoaDcF07MWrGsG0Y7lNT8gHLN2cG9BM4qBEsB3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\varza\\source\\repos\\CoreApp-W-Docker-5\\CoreApp-W-Docker-5.csproj",
+  "projectFilePath": "C:\\SourceCode\\CoreApp-5-Docker\\CoreApp-W-Docker-5.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\varza\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+    "C:\\Users\\VivekArza\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\VivekArza\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\VivekArza\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\VivekArza\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\VivekArza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }
